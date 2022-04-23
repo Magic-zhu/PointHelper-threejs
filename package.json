@@ -1,0 +1,31 @@
+{
+  "name": "point-helper",
+  "version": "1.0.0",
+  "description": "pointHelper just like GridHelper for threejs",
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magic-zhu/PointHelper-threejs.git"
+  },
+  "keywords": [
+    "threejs",
+    "helper",
+    "point"
+  ],
+  "author": "magic-zhu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magic-zhu/PointHelper-threejs/issues"
+  },
+  "homepage": "https://github.com/Magic-zhu/PointHelper-threejs#readme",
+  "dependencies": {
+    "three": "^0.139.2"
+  },
+  "devDependencies": {
+    "@types/three": "^0.139.0"
+  }
+}
